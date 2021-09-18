@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bananaturtlesandwich
 - 👀 I’m interested in learning how to mod, code and mess around with computers
-- 🌱 I’m currently learning UE4 modding and injecting custom blueprints at runtime 
+- 🌱 I’m currently learning UE4 modding
 - 💞️ I’m looking to collaborate on uhh... pretty much anything accessible to me(involving intermediate coding and modelling)
 - 📫 How to reach me afcarreyette@gmail.com
 
