@@ -1,6 +1,9 @@
-Hello world!(it's always hello world lmfao). This is my github account that I use primarily for modding Blue Fire and other games made in the unreal engine 
+Hello world!(it's always hello world lmfao). 
+
+This is my github account that I use primarily for modding Blue Fire and other games made in the unreal engine 
 - Interested in collaboration on any modding projects really
 - Always open to new stuff
+- Mainly versed in C#,Python,Javascript and C++
 
 **Contact**
 
