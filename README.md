@@ -7,7 +7,7 @@ This is my github account that I use primarily for modding Blue Fire and other g
 
 **Contact**
 
-Email: [spudwitch@gmail.com](spudwitch@gmail.com)
+Email: spudwitch@gmail.com
 
 Discord: Spuds#5419
 
