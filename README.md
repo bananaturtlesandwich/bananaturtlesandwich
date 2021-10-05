@@ -3,7 +3,7 @@ Hello world!(it's always hello world lmfao). This is my github account that I us
 - Always open to new stuff
 
 Contact
-[Email](spudwitch@gmail.com)
+Email: [spudwitch@gmail.com](spudwitch@gmail.com)
 Discord: Spuds#5419
 
 <!---
