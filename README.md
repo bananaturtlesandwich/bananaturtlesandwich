@@ -3,6 +3,8 @@ Hello world!(it's always hello world lmfao). This is my github account that I us
 - Always open to new stuff
 
 Contact
+[Email](spudwitch@gmail.com)
+Discord: Spuds#5419
 
 <!---
 bananaturtlesandwich/bananaturtlesandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
