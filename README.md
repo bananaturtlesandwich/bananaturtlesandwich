@@ -2,8 +2,10 @@ Hello world!(it's always hello world lmfao). This is my github account that I us
 - Interested in collaboration on any modding projects really
 - Always open to new stuff
 
-Contact
+**Contact**
+
 Email: [spudwitch@gmail.com](spudwitch@gmail.com)
+
 Discord: Spuds#5419
 
 <!---
