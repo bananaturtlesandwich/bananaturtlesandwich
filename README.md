@@ -15,7 +15,7 @@ Discord: Spuds#5419
 
 ![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&theme=vue-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Fire-Modding)
 
 
 <!---
