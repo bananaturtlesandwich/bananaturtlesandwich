@@ -11,9 +11,10 @@ Email: spudwitch@gmail.com
 
 Discord: Spuds#5419
 
-Stats ig
+**Stats ig**
 
-[![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true)
+
 
 <!---
 bananaturtlesandwich/bananaturtlesandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
