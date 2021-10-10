@@ -15,8 +15,9 @@ Discord: Spuds#5419
 
 ![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&theme=vue-dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich)
 
+Lol apparently I have no languages
 
 <!---
 bananaturtlesandwich/bananaturtlesandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
