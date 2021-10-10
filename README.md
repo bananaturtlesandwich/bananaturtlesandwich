@@ -13,7 +13,7 @@ Discord: Spuds#5419
 
 **Stats ig**
 
-![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&theme=blueberry)
+![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&vue-dark)
 
 
 <!---
