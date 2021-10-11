@@ -4,7 +4,7 @@ This is my github account that I use primarily for modding Blue Fire and other g
 - Interested in collaboration on any modding projects really
 - Always open to new stuff
 - Mainly versed in C#, Python, Javascript and C++
-
+Game reccomendations:Blue Fire, Ghostrunner, Rainworld, Hollow knight, A Hat In Time
 **Contact**
 
 Email: spudwitch@gmail.com
@@ -16,8 +16,6 @@ Discord: Spuds#5419
 ![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&theme=vue-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich)
-
-Lol apparently I have no languages
 
 <!---
 bananaturtlesandwich/bananaturtlesandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
