@@ -15,8 +15,8 @@ Discord: Spuds#5419
 
 **Stats ig**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich) ![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&include_all_commits=true&theme=vue-dark)
-
+![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&include_all_commits=true&theme=vue-dark)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich) 
 
 
 <!---
