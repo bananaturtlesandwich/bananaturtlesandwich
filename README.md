@@ -4,7 +4,7 @@ This is my github account that I use primarily for modding Blue Fire and other g
 - Interested in collaboration on any modding projects really
 - Always open to new stuff
 - Mainly versed in C#, Python, Javascript and C++
-- 
+
 Game recommendations:Blue Fire, Ghostrunner, Rainworld, Hollow knight, A Hat In Time
 
 **Contact**
