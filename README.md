@@ -13,6 +13,8 @@ Email: spudwitch@gmail.com
 
 Discord: Spuds#5419
 
+Twitter: [Spud.](https://twitter.com/AdanCarrott)
+
 **Stats ig**
 
 ![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&include_all_commits=true&theme=vue-dark&hide=prs,issues) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich&layout=compact&theme=vue-dark) 
