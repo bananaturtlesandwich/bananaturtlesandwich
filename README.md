@@ -13,7 +13,7 @@ Email: spudwitch@gmail.com
 
 Discord: Spuds#5419
 
-Twitter: [Spud.](https://twitter.com/AdanCarrott)
+Twitter: [carrot af](https://twitter.com/AdanCarrott)
 
 **Stats ig**
 
