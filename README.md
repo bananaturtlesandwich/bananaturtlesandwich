@@ -7,13 +7,13 @@ This is my github account that I use primarily for modding Blue Fire and other g
 
 Game recommendations: Blue Fire, Ghostrunner, Rainworld, Hollow knight, A Hat In Time
 
-**Contact**
+### **Contact**
 
 Email: spudwitch@gmail.com
 
 Discord: Spuds#5419
 
-**Stats ig**
+### **Stats ig**
 
 ![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&include_all_commits=true&theme=vue-dark&hide=prs,issues&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich&layout=compact&theme=vue-dark&exclude_repo=UnrealPakViewer) 
 
