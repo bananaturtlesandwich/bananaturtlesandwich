@@ -11,7 +11,7 @@ Game recommendations: Blue Fire, Ghostrunner, Rainworld, Hollow knight, A Hat In
 
 Email: spudwitch@gmail.com
 
-Discord: Spuds#5419
+Discord: spuds#5419
 
 ### **Stats ig**
 
