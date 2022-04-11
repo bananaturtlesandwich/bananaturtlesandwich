@@ -14,10 +14,12 @@ Discord: spuds#5419
 Twitter: https://twitter.com/ADamnCarrot
 
 Email: spudwitch@gmail.com
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich&layout=compact&theme=vue-dark&exclude_repo=BIO-Practice)
 <!---### **Stats ig**
 
 ![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&include_all_commits=true&theme=vue-dark&hide=prs,issues&count_private=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich&layout=compact&theme=vue-dark&exclude_repo=UnrealPakViewer,Ghostrunner-Mod-Project,BIO-Practice) --->
+ --->
 
 <!---
 bananaturtlesandwich/bananaturtlesandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
