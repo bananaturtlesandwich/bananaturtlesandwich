@@ -3,7 +3,7 @@ Hello world!(it's always hello world lmfao).
 This is my github account that I use primarily for modding Blue Fire and other games made in the unreal engine 
 - Interested in collaboration on any modding projects really
 - Always open to new stuff
-- Mainly versed in C#, Python, Javascript and C++
+- Mainly versed in C# (*my beloved*) but interested in C++,Javascript and Rust
 
 Game recommendations: Blue Fire, Ghostrunner, Rainworld, Have A Nice Death, Spiritfarer, Hollow knight, A Hat In Time
 
