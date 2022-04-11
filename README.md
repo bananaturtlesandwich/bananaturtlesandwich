@@ -9,10 +9,11 @@ Game recommendations: Blue Fire, Ghostrunner, Rainworld, Have A Nice Death, Spir
 
 ### **Contact**
 
-Email: spudwitch@gmail.com
-
 Discord: spuds#5419
 
+Email: spudwitch@gmail.com
+
+Twitter: https://twitter.com/ADamnCarrot
 <!---### **Stats ig**
 
 ![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&include_all_commits=true&theme=vue-dark&hide=prs,issues&count_private=true) 
