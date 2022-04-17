@@ -1,11 +1,11 @@
-Hello world!(it's always hello world lmfao). 
+### Hello world!
+- Bit of an idiot, but always enjoy learning more
+- I enjoy making mods for games
+- I crave automation in everything
+- Mainly versed in C# (*my beloved*) but interested in Rust, C++ and Javascript
 
-This is my github account that I use primarily for modding Blue Fire and other games made in the unreal engine 
-- Interested in collaboration on any modding projects really
-- Always open to new stuff
-- Mainly versed in C# (*my beloved*) but interested in Rust,C++ and Javascript
-
-Game recommendations: Blue Fire, Ghostrunner, Rainworld, Have A Nice Death, Spiritfarer, Hollow knight, A Hat In Time
+### Game recommendations
+Blue Fire, Ghostrunner, Rainworld, Have A Nice Death, Spiritfarer, Hollow knight, A Hat In Time
 
 ### **Contact**
 
@@ -14,10 +14,6 @@ Game recommendations: Blue Fire, Ghostrunner, Rainworld, Have A Nice Death, Spir
 [![](https://img.shields.io/badge/spudwitch-A63B30?style=for-the-badge&logo=gmail&logoColor=white)](spudwitch@gmail.com)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich&layout=compact&theme=vue-dark)
-<!---### **Stats ig**
-
-![bananaturtlesandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&show_icons=true&include_all_commits=true&theme=vue-dark&hide=prs,issues&count_private=true) 
- --->
 
 <!---
 bananaturtlesandwich/bananaturtlesandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
