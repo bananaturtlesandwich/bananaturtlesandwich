@@ -11,7 +11,7 @@ Blue Fire, Ghostrunner, Rainworld, Have A Nice Death, Spiritfarer, Hollow knight
 
 ![](https://img.shields.io/badge/spuds%235419-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 [![](https://img.shields.io/badge/ADamnCarrot-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ADamnCarrot)
-[![](https://img.shields.io/badge/spudwitch-A63B30?style=for-the-badge&logo=gmail&logoColor=white)](spudwitch@gmail.com)
+[![](https://img.shields.io/badge/spudwitch-A63B30?style=for-the-badge&logo=gmail&logoColor=white)](https://spudwitch@gmail.com)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich&layout=compact&theme=vue-dark)
 
