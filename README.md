@@ -1,8 +1,5 @@
 ### Hello world!
-- Bit of an idiot, but always enjoy learning more
-- I enjoy making mods for games
-- I crave automation in everything
-- Mainly versed in C# (*my beloved*) but interested in Rust, C++ and Javascript
+I enjoy making mods for games and crave automation in everything. Mainly versed in C# (*my beloved*) but interested in Rust, C++ & Javascript
 
 ### Game recommendations
 Blue Fire, Ghostrunner, Rainworld, Have A Nice Death, Spiritfarer, Hollow knight, A Hat In Time
