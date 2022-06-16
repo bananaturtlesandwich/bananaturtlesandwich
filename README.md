@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/spuds%235419-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/bananaturtlesandwich)
+[![](https://img.shields.io/badge/spuds%235419-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://github.com/bananaturtlesandwich](https://discord.com/users/527881769857318913))
 [![](https://img.shields.io/badge/ADamnCarrot-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ADamnCarrot)
 [![](https://img.shields.io/badge/spudwitch-A63B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spudwitch@gmail.com)
 
