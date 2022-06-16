@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/spudwitch-A63B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spudwitch@gmail.com)
 
 - Hiya!👋 I'm spuds. I'm just a potato (they/them) who likes fucking around with games and worships optimisation and automation
-- Stubbornly attached to C# 🤪 but trying to break away from it
+- Stubbornly attached to C# (my beloved) but starting to broaden out (maybe🙃)
 - Game recommendations: Blue Fire, Rain World, Ghostrunner, Spiritfarer, Have a Nice Death and Wavetale
 
 ![](https://github-readme-stats.vercel.app/api?username=bananaturtlesandwich&layout=compact&theme=calm&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true)
