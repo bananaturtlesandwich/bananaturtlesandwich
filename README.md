@@ -1,6 +1,8 @@
 [![](https://img.shields.io/badge/spuds%235419-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/527881769857318913)
 [![](https://img.shields.io/badge/spudwitch-A63B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spudwitch@gmail.com)
 [![](https://img.shields.io/badge/bananaturtlesandwich-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bananaturtlesandwich)
+[![](https://img.shields.io/badge/organicspuds-8B4DEB?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/organic-spuds)
+[![](https://img.shields.io/badge/organicspuds-42C5EB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/organicspuds)
 
 Hiya! [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"  width="25" />](https://github.com/bananaturtlesandwich) I'm spuds. I'm just a potato [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png"  width="25" />](https://github.com/bananaturtlesandwich) who:
 - Is stubbornly attached to the [C# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="25" />](https://dotnet.microsoft.com/en-us/languages/csharp) and [rust <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png" width="25" />](https://www.rust-lang.org/) programming languages
