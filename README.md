@@ -10,7 +10,7 @@ Hiya! [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-F
 - Enjoys modding and making modding tools [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" />](https://github.com/bananaturtlesandwich) - notably [stove <img src="https://github.com/bananaturtlesandwich/stove/blob/main/assets/pot.ico" width="25" />](https://github.com/bananaturtlesandwich/stove)
 
 [
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich&bg_color=3f3f3f&text_color=d9d8cd&title_color=ebe0bd&icon_color=8dd0d3&layout=compact&hide_border=true&card_width=313&exclude_repo=breaker-mods)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bananaturtlesandwich&bg_color=3f3f3f&text_color=d9d8cd&title_color=ebe0bd&icon_color=8dd0d3&layout=compact&hide_border=true&card_width=313&exclude_repo=breaker)
 <img src="https://lanyard.cnrad.dev/api/527881769857318913" height=165/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bananaturtlesandwich&theme=zenburn)
 ](https://github.com/bananaturtlesandwich)
