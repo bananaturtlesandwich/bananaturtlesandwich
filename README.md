@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/spuds._.-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/spuds._.)
+[![](https://img.shields.io/badge/spuds.__.-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/spuds._.)
 [![](https://img.shields.io/badge/spuds@null.net-004788?style=for-the-badge&logo=mail.com&logoColor=white)](mailto:spuds@null.net)
 [![](https://img.shields.io/badge/bananaturtlesandwich-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bananaturtlesandwich)
 [![](https://img.shields.io/badge/organicspuds-8B4DEB?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/organic-spuds)
